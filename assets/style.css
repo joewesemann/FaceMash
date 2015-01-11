@@ -1,0 +1,31 @@
+.container{
+	text-align: center;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.images img{
+	padding: 15px;
+	max-height: 235px;
+	max-width: 260px;
+}
+.rankedImages img{
+	padding: 10px;
+	width: 230px;
+	height: 200px;
+	max-width: 230px;
+	max-height: 200px;
+}
+li:last-of-type img{
+	margin-left: -10px;
+}
+li:last-of-type strong{
+	margin-left: -12px;
+}
+input{
+	margin: 14px !important;	
+}
+strong{
+	font-size: 3em;
+	float: left;
+	margin-top: 65px;
+}
